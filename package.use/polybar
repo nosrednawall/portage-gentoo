@@ -1,1 +1,1 @@
-x11-misc/polybar -i3wm -ipc -mpd -network -alsa -pulseaudio 
+x11-misc/polybar i3wm mpd network alsa pulseaudio 
