@@ -1,2 +1,4 @@
 =media-libs/gd-2.3.0 fontconfig
 =dev-qt/qtmultimedia-5.14.2-r1 widgets
+=www-client/w3m-0.5.3_p20180125 imlib
+=x11-libs/libdrm-2.4.102 video_cards_radeon
