@@ -43,4 +43,4 @@ GRUB_PLATAFORMS="efi-64"
 #I3_LY="jpeg png"
 #USE="$(I3_LY)"
 
-USE="pulseaudio elogind -consolekit -systemd -wayland examples cleartype truetype type1 corefonts"
+USE="pulseaudio elogind -consolekit -systemd"
