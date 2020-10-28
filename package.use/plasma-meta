@@ -1,1 +1,1 @@
-kde-plasma/plasma-meta browser-integration crypt display-manager elogind grub gtk handbook kwallet networkmanager pulseaudio qrcode sddm wallpapers -systemd -wayland
+#kde-plasma/plasma-meta browser-integration crypt display-manager elogind grub gtk handbook kwallet networkmanager pulseaudio qrcode sddm wallpapers -systemd -wayland
